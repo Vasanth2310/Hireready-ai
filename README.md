@@ -12,7 +12,7 @@ Get a quick visual overview of HireReady AI's key features and how it can help y
 
 ## 📝 Presentation Slides
 
-<!-- [Presentation](https://your-presentation-slides-url.com) -->
+[Presentation](https://docs.google.com/presentation/d/11oDZNHIF10rqvdhz4WP7o3rDnzwm166rabogOJHpFy8/edit?usp=sharing)
 
 Explore our detailed presentation to understand the vision, features, and technology behind HireReady AI.
 
