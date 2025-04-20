@@ -6,7 +6,7 @@ HireReady AI is an intelligent career assistant meticulously crafted to empower 
 
 ## 🎬 Demo Video
 
-<!-- [![Demo](https://img.youtube.com/vi/your_youtube_video_id/0.jpg)](https://your-demo-video-url.com) -->
+[Watch Demo](https://vimeo.com/1077008172/4f5aefab6c?share=copy)
 
 Get a quick visual overview of HireReady AI's key features and how it can help you in your career journey. **Click the image above to watch the demo.**
 
