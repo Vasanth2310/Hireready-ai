@@ -4,6 +4,14 @@ HireReady AI is an intelligent career assistant meticulously crafted to empower 
 
 ---
 
+## Notes
+
+**Note:** Convert your system theme to a Dark Theme for better Experience.
+
+*Important:* Please convert your system to Dark Theme.
+
+---
+
 ## 🎬 Demo Video
 
 [Watch Demo](https://vimeo.com/1077008172/4f5aefab6c?share=copy)
